@@ -22,7 +22,7 @@
 - 🔭 **Currently Building:** [ClaimInsight360](https://github.com/UT258) – A highly scalable insurance claims analytics platform powered by 9 microservices.
 - 🌱 **Deepening Expertise:** Mastering **Spring Boot 3, Spring Cloud, WebFlux, React 18, and Distributed Systems**.
 - 💬 **Let's Discuss:** Microservices Architecture, JWT/RBAC Security, and Full-Stack Java Development.
-- 🧩 **Active Problem Solver:** Constantly sharpening my logic on [LeetCode](https://leetcode.com/u/utkarhsingh23/).
+- 🧩 **Active Problem Solver:** Constantly sharpening my logic and algorithms on [LeetCode](https://leetcode.com/u/utkarhsingh23/).
 - ⚡ **Development Philosophy:** I enjoy turning complex, chaotic backend workflows into clean, lightning-fast, and user-friendly products.
 
 <br><br>
@@ -77,7 +77,7 @@
 - **Frontend & UX:** Developed a highly responsive React 18 frontend with Redux Toolkit, featuring a polling-based notification UX and 12+ secure feature pages.
 - **Observability:** Implemented end-to-end tracing and real-time monitoring utilizing Zipkin, Spring Boot Actuator, and Spring Boot Admin.
 
-🔗 **[View Repository](https://github.com/UT258)**
+🔗 **[View Repository](https://github.com/UT258)** *(Update this link if the project is in a specific repository)*
 </details>
 
 <details open>
@@ -95,19 +95,29 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Stats & Analytics
 
 <div align="center">
 
+<!-- LeetCode Stats Card -->
+<a href="https://leetcode.com/u/utkarhsingh23/">
+  <img height="165em" src="https://leetcard.jacoblin.cool/utkarhsingh23?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</a>
+
+<br><br>
+
+<!-- GitHub Stats -->
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=UT258&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UT258&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
+<!-- GitHub Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=UT258&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 <br>
 
+<!-- GitHub Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=UT258&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
